@@ -1,6 +1,5 @@
 
-image:
-  name: kmdemos/gitpod_elixir_starter:1
+image: kmdemos/gitpod_elixir_starter:1
 
 vscode:
   extensions:
