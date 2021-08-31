@@ -1,6 +1,6 @@
 
 image:
-  file: .gitpod.Dockerfile
+  name: kmdemos/gitpod_elixir_starter:1
 
 vscode:
   extensions:
