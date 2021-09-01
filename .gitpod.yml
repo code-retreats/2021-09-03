@@ -2,9 +2,8 @@
 image: kmdemos/gitpod_elixir_starter:1
 
 tasks:
-  - name: Get dependencies
+  - name: Get dependencies and run tests
     init: mix deps.get
-  - name: Run tests interactively
     command: mix test.interactive
 
 vscode:
