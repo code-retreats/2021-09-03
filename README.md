@@ -1,21 +1,15 @@
 # ElixirStarter
 
-**TODO: Add description**
+This project serves as a "starter" configured with a few dependencies to help with writing code in Elixir and run tests.
+These include:
+- run tests "on change"
+- code coverage
+- code readability
 
-## Installation
+Fork it your account on GitHub and use as you wish.
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `elixir_starter` to your list of dependencies in `mix.exs`:
+## Workspace
 
-```elixir
-def deps do
-  [
-    {:elixir_starter, "~> 0.1.0"}
-  ]
-end
-```
+Obtain a fully functional and ready-to-use remote workspace on [gitpod](https://gitpod.io/) by launching the project you fork on gitpod. To do so, simply construct a URL consisting of "https://gitpod.io/#" + the URL to your repository on github, and navigate to it in your browser. For example, ```https://gitpod.io/#https://github.com/krishnan-mani/elixir_starter```
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/elixir_starter](https://hexdocs.pm/elixir_starter).
-
+This repository already contains a basic [.gitpod.yml](.gitpod.yml) configuration, so your workspace will have Elixir installed, and a couple of VSCode extensions for Elixir.
