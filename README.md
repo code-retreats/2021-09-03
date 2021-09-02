@@ -1,5 +1,7 @@
 # ElixirStarter
 
+[![CI](https://github.com/krishnan-mani/elixir_starter/actions/workflows/elixir.yml/badge.svg)](https://github.com/krishnan-mani/elixir_starter/actions/workflows/elixir.yml)
+
 This project serves as a "starter" configured with a few dependencies to help with writing code in Elixir and run tests.
 These include:
 - run tests "on change"
