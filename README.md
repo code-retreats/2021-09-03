@@ -1,4 +1,5 @@
-Presentation used at the code retreat is [here]("Functional programming (with Elixir).pdf")
+Theme for the Code Retreat (at Elsevier, Oxford on 3rd September, 2021) was: "Functional programming (with Elixir)"
+Presentation used at the code retreat is [here](presentation.pdf)
 
 # ElixirStarter
 
