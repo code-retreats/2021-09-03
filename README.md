@@ -1,3 +1,5 @@
+Presentation used at the code retreat is [here]("Functional programming (with Elixir).pdf")
+
 # ElixirStarter
 
 [![CI](https://github.com/krishnan-mani/elixir_starter/actions/workflows/elixir.yml/badge.svg)](https://github.com/krishnan-mani/elixir_starter/actions/workflows/elixir.yml)
